@@ -38,11 +38,11 @@ color:red;
 main{
     background-color: rgb(106, 235, 255);
     padding: 20px;
+    margin: 10px;
 
 }
 
 #Hero {
-    
     display:flex;
     justify-content: space-between;
     align-items: center;
